@@ -1,8 +1,7 @@
 この文章は、中のコードに基づいてchatgptが生成したものになります。
 （もちろん加筆修正してます。）
 
-# A first-level heading
-CRC64 Tekito
+# CRC64 Tekito
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/example/repository/blob/main/LICENSE)
 
