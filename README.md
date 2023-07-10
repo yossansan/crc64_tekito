@@ -59,3 +59,4 @@ CRC64 Tekitoへの貢献は歓迎します！問題点や改善案がある場�
 
 ## 参考文献
 https://en.wikipedia.org/wiki/Cyclic_redundancy_check
+http://www.sunshine2k.de/articles/coding/crc/understanding_crc.html
